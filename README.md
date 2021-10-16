@@ -29,12 +29,12 @@ For more details, see the latest release on [GitHub][8].
 
 ## Contributing
 
-Pull requests are welcome! See [CONTRIBUTING.md][9] for more details.
+Pull requests are welcome! See [CONTRIBUTING.md] for more details.
 
 ## License
 
 Source code in this repository is licensed under a Simplified BSD License. See
-[LICENSE.txt][10] for more details.
+[LICENSE.txt] for more details.
 
 [1]: https://obsolescence.wixsite.com/obsolescence/pidp-11
 [2]: https://www.raspberrypi.org/
@@ -44,5 +44,6 @@ Source code in this repository is licensed under a Simplified BSD License. See
 [6]: https://www.tindie.com/products/24781
 [7]: https://www.microchip.com/en-us/product/MCP23016
 [8]: https://github.com/sstallion/PCB-PiDP11IOExpander/releases/latest
-[9]: https://github.com/sstallion/PCB-PiDP11IOExpander/blob/master/CONTRIBUTING.md
-[10]: https://github.com/sstallion/PCB-PiDP11IOExpander/blob/master/LICENSE.txt
+
+[CONTRIBUTING.md]: CONTRIBUTING.md
+[LICENSE.txt]: LICENSE.txt

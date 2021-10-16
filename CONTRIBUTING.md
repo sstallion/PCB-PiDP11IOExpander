@@ -21,11 +21,11 @@ regressions. If user-facing changes are introduced, be sure to add an entry to
 the `Unreleased` section in [CHANGELOG.md][4].
 
 With that out of the way, you may now commit your changes and create a [pull
-request][5] against the `master` branch for review!
+request][4] against the `master` branch for review!
 
 ## Making New Releases
 
-Making new releases is automated by Altium Designer's [Project Releaser][6].
+Making new releases is automated by Altium Designer's [Project Releaser][5].
 Releases should only be created from the `master` branch; as such `master`
 should be passing ERC and DRC at all times.
 
@@ -45,7 +45,7 @@ To make a new release, follow these steps:
    Panel and selecting `Version Control` then `Refresh`.
 7. Right click on the project file in the Projects Panel and select `Project
    Releaser...` then click on the `Prepare & Pack` button.
-8. Once finished, create a new release on [GitHub][7] using the resulting
+8. Once finished, create a new release on [GitHub][6] using the resulting
    archive in the `Project Outputs` folder.
 
 ## License
@@ -56,7 +56,8 @@ licensed under its Simplified BSD License.
 [1]: https://github.com/sstallion/PCB-PiDP11IOExpander/issues
 [2]: https://github.com/sstallion/Altium
 [3]: https://docs.github.com/en/github/getting-started-with-github/fork-a-repo
-[4]: https://github.com/sstallion/PCB-PiDP11IOExpander/blob/master/CHANGELOG.md
-[5]: https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request
-[6]: https://www.altium.com/documentation/altium-designer/working-with-the-project-releaser-ad
-[7]: https://github.com/sstallion/PCB-PiDP11IOExpander/releases
+[4]: https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request
+[5]: https://www.altium.com/documentation/altium-designer/working-with-the-project-releaser-ad
+[6]: https://github.com/sstallion/PCB-PiDP11IOExpander/releases
+
+[CHANGELOG.md]: CHANGELOG.md
